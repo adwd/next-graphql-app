@@ -21,7 +21,7 @@ export default class MyApp extends App {
         <Head>
           <title>Create Next App</title>
           <link rel="icon" href="/favicon.ico" />
-          <script src="/speedcurve-lux.js"></script>
+          <script src="/speedcurve-lux.js" async defer></script>
           <script
             src="https://cdn.speedcurve.com/js/lux.js?id=512610003"
             async
